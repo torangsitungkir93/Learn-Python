@@ -7,8 +7,6 @@ c="mabar"
 print (a)
 print (b)
 
-<<<<<<< HEAD
+
 print("Sukses terus mas bro")
-=======
-print ("Anjayy "+c)
->>>>>>> origin/master
+

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b09dddef-9ef3-4ffa-aa76-593b8343856c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.String and Slice them up/string2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.String and Slice them up/string2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

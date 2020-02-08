@@ -5,4 +5,4 @@ b=text[-4]
 print (a)
 print (b)
 
-print("Sukses")
+print("Sukses terus mas bro")
